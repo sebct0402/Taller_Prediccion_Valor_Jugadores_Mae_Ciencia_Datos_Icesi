@@ -1,2 +1,2 @@
 # Talleres_maestria_ciencia_de_datos
-En este repositorío se encontrarán algunos de los talleres realizados para las materias de Análisis Cuantitativo, Análisis exploratorio de datos e infrastructura y arquitectura TI.
+Taller para la predicción del valor de jugadores de futbol desarrollado para "Análisis Cuantitativo" en ICESI. Incluye respuesta a preguntas del negocio y la implementación de Regresión lineal simple - Múltiple y polinómica.
